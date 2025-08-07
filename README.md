@@ -147,6 +147,6 @@ Then start the server:
 ```bash
 nodemon index.js
 ```
-
+---
 
 ### Thank you for Reading!
