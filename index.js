@@ -12,7 +12,7 @@ const port = process.env.PORT || 3000;
 //"http://localhost:5173"
 app.use(
   cors({
-    origin: ["https://bloodconnect-3e8aa.web.app"],
+    origin: ["https://bloodconnect-3e8aa.web.app","http://localhost:5173"],
     credentials: true,
   })
 );
