@@ -1,4 +1,4 @@
-![App Screenshot](https://i.ibb.co/r2YDdhpr/blood-connect-white-logo-nobg.png)
+![App Screenshot](https://i.ibb.co/7dhbSrZt/Blood-Connect-github.png)
 
 # Blood Donation Application - (Blood Connect)
 
@@ -7,6 +7,8 @@ A web application that helps users find and manage blood donors efficiently thro
 ## Live Link
 
 - Please Visit [Blood Connect](https://bloodconnect-3e8aa.web.app/) !
+- Admin Email - john@doe.com
+- Admin Password - 123456As
 
 ## ✅ Features of Blood Connect App
 
